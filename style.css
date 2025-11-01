@@ -8,7 +8,7 @@
     height:40.625rem;
     width:100%;
     background-color:black;
-    background-image: url("/car1.jpg");
+    background-image: url("car1.jpg");
     background-size: cover;
     display:flex;
     justify-content: center; 
@@ -252,19 +252,19 @@
 }
 @keyframes backimage{
     0%{
-        background-image:url("/carint1.jpg");
+        background-image:url("carint1.jpg");
         background-size: 100% 100%;
         background-position: right;
     }
     50%{
-        background-image:url("/carint2.jpg");
+        background-image:url("carint2.jpg");
         background-size: 100% 100%;
         background-position: right;
 
         
     }
     100%{
-        background-image:url("/carint3.png");
+        background-image:url("carint3.png");
         background-size: 100% 100%;
         background-position: right;
 
@@ -364,7 +364,7 @@ ul{
 .logo{
     height:50px;
     width:150px;
-    background-image:url("/logo.svg");
+    background-image:url("logo.svg");
     background-size:contain;   
 }
 
