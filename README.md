@@ -90,13 +90,13 @@ BMWClone/
 Here are a few previews of the project:
 
 **Page Layout 1**
-![BMW Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/bmw1.png)  
+![BMW Clone Screenshot 1](https://raw.githubusercontent.com/ronik-bajakke/BMWClone/main/bmw1.png)  
 **Page Layout 2**
-![BMW Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/bmw2.png) 
+![BMW Clone Screenshot 2](https://raw.githubusercontent.com/ronik-bajakke/BMWClone/main/bmw2.png) 
 **Page Layout 3** 
-![BMW Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/bmw3.png)  
+![BMW Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/BMWClone/main/bmw3.png)  
 **Page Layout 4** 
-![BMW Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/AmazonClone/main/bmw4.png) 
+![BMW Clone Screenshot 3](https://raw.githubusercontent.com/ronik-bajakke/BMWClone/main/bmw4.png) 
 
 ---
 
